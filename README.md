@@ -22,6 +22,12 @@
     * > scss
         * why?
     * > less
+* > layouting
+    * cum aliniez un buton in centrul header-ului?
+    * > flex
+    * > grid
+        * grid mai usor decat flex? sau flex mai usor decat grid?
+
 ## JS
 * > Promises
     * > `finally`
@@ -38,8 +44,9 @@
     1. > `map` / `filter`
     2. > `flat` / `find`
     3. > `flatMap` / `reduce`
+
 ## Typescript
-Typescript maine este abandonat pentru Coffescript, good/bad? 
+* Typescript maine este abandonat pentru Coffescript, good/bad? 
 * > conditional types    
 * > discriminating union
 * > operatorul `satisfies`
@@ -62,15 +69,31 @@ Typescript maine este abandonat pentru Coffescript, good/bad?
 * good things about vue 3
 * > redux (vuex?)
 * > nuxt?
+
+
+## Frontend General
+* Graphql? propria noastra baza de date
+* Mobile first or Desktop first design?
+* Ce se intampla cand scriu in url `http://www.google.com`
+    * > tcp / dns / browser request / etc.
+    * Dar in chrome `reddit.com`?
+        * > face append `https://www` automat
+* Trebuie pentru un site care supporta si dark theme sa fac un banner
+    > format imagini + svg
+    * cum pot sa fac fundalul sa fie alb cand e white,
+    * cum pot sa fac fundalul sa fie negru cand e dark
+    * cum pot sa fac sa il maresc de 10 ori sa il folosesc in pagina de login fara sa fie pixelat?
+
 * login in app sau in afara?
     * cum stii identitatea utilizatorului?
-
-## State management
-
-
-## CI/CD
-* > kubernetess
+## CI/CD/OPS
+* yaml sau json?
 * > docker
+    * instante minime?
+    * `from` din mai multe imagini?
+* > kubernetess
+    * la ce e bun?
+* Cand stiu ca un server accepta connectiuni?
 * `build`
     * > webpack
         * why not rollup?
@@ -82,10 +105,23 @@ Typescript maine este abandonat pentru Coffescript, good/bad?
     * > github actions
     * > gitlab actions
 
+* Cand crapa aplicatia pe bune ce faci, unde te uiti?
+* Cate medii e bine sa ai?
+
+## Metodologii
+* Experienta cu Agile?
+    * La ce e util un scrum master?
+    * 1 punct = o zi right?
+* Kanban sau sprinturi?
+    * why?
+
 ## Database
 * Why SQL?
 * > Migration strategy
     * regresion migration
+* De ce nu google sheets?, e scalabila, e resilienta (cand crapa google?) rapoarte built in.
+* ORM?
+
 
 ## Testing
 * ce poti testa intr-un 'site web'?
