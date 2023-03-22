@@ -1,4 +1,3 @@
-## Database
 * Why SQL?
 * > Migration strategy
     * regresion migration

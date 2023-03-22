@@ -1,4 +1,3 @@
-## JS
 * > Promises
     * > `finally`
     * > `all`
@@ -11,3 +10,6 @@
     * > `fetch` prinde redirect
         * cand fetch intra pe catch?
 *  Ai folosit patternul/modelul de map/reduce?
+    1. > `map` / `filter`
+    2. > `flat` / `find`
+    3. > `flatMap` / `reduce`

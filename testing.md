@@ -1,4 +1,3 @@
-## Testing
 * ce poti testa intr-un 'site web'?
 * ce economisesti avand teste?
 * Cand stii ca testele cu verde sunt chiar valide?

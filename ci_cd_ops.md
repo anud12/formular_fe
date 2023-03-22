@@ -1,4 +1,3 @@
-## CI/CD/OPS
 * yaml sau json?
 * > docker
     * instante minime?

@@ -1,4 +1,6 @@
-## Angular
-* why angular
-* de ce nu au folosit `promise` in loc de `rxjs`?
-* diferenta intre `BehaviourSubject` si `ReplaySubject`
+* why vue?
+* pain points vue 2
+* good things about vue 3
+* > redux (vuex?)
+* > nuxt?
+* ai avut nevoie sa folosesti vue pe langa SSR?
